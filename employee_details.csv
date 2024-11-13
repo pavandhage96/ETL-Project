@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EmployeeID	FirstName	  LastName  	BirthDate	Department	Salary
 E001    	Alice  	   White    	12-06-1990	 Finance  	55000
 E002    	 Bob  	   Brown    	03-01-1988	 IT        	90000
@@ -50,3 +51,57 @@ E044    	Gabriel$   Lakey "	30-06-1998	 Finance   	47000
 E045    	 HÃ©ctÃ³r 	   Espin"sa 	15-03-1985	 HR        	64000
 E046    	 Ian S  	    Kimball 	31-10-1971	 IT        	70000
 E047    	 "J"ack "	Slater     	31-12-1985	 Marketing 	5000
+=======
+EmployeeID	FirstName	  LastName  	BirthDate	Department	Salary
+E001    	Alice  	   White    	12-06-1990	 Finance  	55000
+E002    	 Bob  	   Brown    	03-01-1988	 IT        	90000
+E003    	Carol 	   Grey     	15-07-1995	 HR        	47000
+E004    	David 	   Black    	23-09-1992	 Marketing 	75000
+E005    	Eve   	   Green    	18-03-1985	 IT        	125000
+E006    	 Frank 	   Turner   	21-11-1980	 Finance   	85000
+E007    	 Grace 	   Harper   	15-02-1993	 HR        	62000
+E008    	  Holly	   Norman   	09-04-1999	 Marketing 	43000
+E009    	  Ian 	   Ross     	27-05-1996	 Finance   	110000
+E010    	John  	   Bishop   	18-08-1997	 IT        	70000
+EmployeeID	FirstName	  LastName  	BirthDate	Department	Salary
+E011    	    Ada  	   L Lovelace	1803-05-23	 IT        	100000
+E012    	 Amy C  	  Appleseed  	29-02-1976	 IT        	-87500
+E013    	 Bao   	   Nguyen    	31-12-2005	 Marketing 	200150
+E014    	 Carla	   342 Jimenez	03-03-1975	 Finance   	-39400
+E015    	007 Dena	Smith-Tracy 	01-01-1980	 HR        	10000A
+E016    	Ellie J.	McException 	20-11-2023	 IT        	75000
+E017    	(Inna)	    Romanov	01-02-1988	 Finance   	102000
+E018    	Liska	     -diana	20-12-1991	 HR        	49999
+E019    	Mario  	 Antonio   	05-05-1985	 Marketing 	100000
+E020    	x012 Zoe 	Roberts Col	2999-19-18	 IT        	70000
+					
+E021    	 Angela 	 Williams  	01-06-2018	 IT        	30000
+E022    	 .Bell  	   Smith    	30-11-1969	 Finance   	180000
+E023    	Cory	  Thompson"	21-04-1989	 Marketing	99999
+E024    	D\n Dora	Delgado "oo"	01-01-2000	 HR        	-20000
+E025    	Zayd ;$	   Edris   	22-07-1978	 IT        	150075
+E026    	 Tina  	 McTwitter  	12-11-1990	 HR        	45000
+E027    	 Kelly 	   O'Conn.el 	25-05-2010	Finance   	48000
+E028    	 Marek 	   Swobodzki	12-12-1990	 Marketing 	98000
+E029    	 Neil Q	   Quintz    	04-07-1972	 IT        	75000
+E030    	 " "#    P. Franklin	15-02-1991	-Invalid-	12345	
+					
+E031    	*Susan *	   _Doe     	30-08-1981	 IT        	71000
+E032    	 Travis 	 Rumbold    	22-04-1987	 Finance   	155000
+E033    	""Lvi,  	  Marks"	12-08-1994	 Marketing	51000
+E034    	Minerva	   Torres   	30-01-2001	 HR        	60000
+E035    	Nic_ *@*	 Wilson     	15-10-2002	 IT        	127000
+E036    	Olivia 	Ab01 Sil^a 	16-11-1979	 Finance   	82000
+E037    	 Padma 	   Pat.il    	21-06-1993	 HR        	61000
+E038    	 Ã‘elly 	 Garc.=Ã­a    	30-04-2004	 Marketing 	43000
+E039    	 RenÃ© A	 RÃ©gisReed   	30-01-1995	 IT        	88000
+E040    	Szilvia	Fr@ncis Hall	15-03-1997	 Finance   	97000
+					
+E041    	Andrea S	  Val043_y  	06-10-1994	 HR        	57000
+E042    	   D&Bry	    Jenkins 	1969-1.1-29	 IT        	120000
+E043    	Elena'00	L0k Scihmidt	1990-19-00/&	 Marketing	80000
+E044    	Gabriel$   Lakey "	30-06-1998	 Finance   	47000	
+E045    	 HÃ©ctÃ³r 	   Espin"sa 	15-03-1985	 HR        	64000
+E046    	 Ian S  	    Kimball 	31-10-1971	 IT        	70000
+E047    	 "J"ack "	Slater     	31-12-1985	 Marketing 	5000
+>>>>>>> 6b38d0a21665638d7c7de4782b8bbbdbc66f333d
