@@ -1,0 +1,49 @@
+EmployeeID	Department	Salary	FullName	Age	SalaryBucket
+E001	Finance	55000	Alice White	33	B
+E002	IT	90000	Bob Brown	35	B
+E003	HR	47000	Carol Grey	28	A
+E004	Marketing	75000	David Black	31	B
+E005	IT	125000	Eve Green	38	C
+E006	Finance	85000	Frank Turner	43	B
+E007	HR	62000	Grace Harper	30	B
+E008	Marketing	43000	Holly Norman	24	A
+E009	Finance	110000	Ian Ross	27	C
+E010	IT	70000	John Bishop	26	B
+EmployeeID	Department		FirstName LastName		Unknown
+E011	IT	100000	Ada L Lovelace	220	B
+E012	IT	-87500	Amy C Appleseed	47	A
+E013	Marketing	200150	Bao Nguyen	18	C
+E014	Finance	-39400	Carla 342 Jimenez	48	A
+E015	HR		007 Dena Smith-Tracy	43	Unknown
+E016	IT	75000	Ellie J. McException	0	B
+E017	Finance	102000	(Inna) Romanov	35	C
+E018	HR	49999	Liska -diana	32	A
+E019	Marketing	100000	Mario Antonio	38	B
+E020	IT	70000	x012 Zoe Roberts Col		B
+E021	IT	30000	Angela Williams	5	A
+E022	Finance	180000	.Bell Smith	54	C
+E023	Marketing	99999	"Cory Thompson\"",34,B
+E024,HR,-20000,D\\n Dora Delgado \""oo\"""""	23	A
+E025	IT	150075	Zayd ;$ Edris	45	C
+E026	HR	45000	Tina McTwitter	33	A
+E027	Finance	48000	Kelly O'Conn.el	13	A
+E028	Marketing	98000	Marek Swobodzki	33	B
+E029	IT	75000	Neil Q Quintz	51	B
+E030	12345		\ \"#    P. Franklin 1991-02-15"		Unknown
+E031	IT	71000	*Susan * _Doe	42	B
+E032	Finance	155000	Travis Rumbold	36	C
+E033	12-08-1994		\\"\"\"\"Lvi \""		Unknown
+E034	HR	60000	Minerva Torres	22	B
+E035	IT	127000	Nic_ *@* Wilson	21	C
+E036	Finance	82000	Olivia Ab01 Sil^a	44	B
+E037	HR	61000	Padma Pat.il	30	B
+E038	Marketing	43000	Ã‘elly Garc.=Ã­a	19	A
+E039	IT	88000	RenÃ© A RÃ©gisReed	28	B
+E040	Finance	97000	Szilvia Fr@ncis Hall	26	B
+E041	HR	57000	Andrea S Val043_y	29	B
+E042	IT	120000	D&Bry Jenkins		C
+E043	Marketing	80000	Elena'00 L0k Scihmidt		B
+E044	47000		Gabriel$   Lakey \ 1998-06-30"		Unknown
+E045	HR	64000	HÃ©ctÃ³r Espin\sa"	38	B
+E046	IT	70000	Ian S Kimball	52	B
+E047	Marketing	5000	\J\"ack \" Slater"	38	A

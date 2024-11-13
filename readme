@@ -1,0 +1,37 @@
+# Employee Data ETL Pipeline
+
+This project implements an **ETL (Extract, Transform, Load)** pipeline that processes employee data from a CSV file, applies transformations according to specified business rules, and loads the transformed data into a PostgreSQL database.
+
+## Technologies Used
+- **Databricks** for data extraction and transformation
+- **PostgreSQL** for data storage
+- **Python** for scripting the ETL process
+
+(Note: I do not have experience with Docker, so this implementation does not include Docker. The ETL pipeline is executed using Databricks for transformations and PostgreSQL for loading data.)
+
+## Project Structure
+`main.py`: The main script that ties together the ETL pipeline.
+- `etl/`: Contains the extract, transform, and load logic for the pipeline.
+- `tests/`: Contains test files for the ETL functions.
+- `employee_details.csv`: Sample input file containing employee data.
+- `transformed_employee_details.csv`: Output file with transformed employee data.
+- `README.md`: Documentation for setting up and running the project.
+
+1. **Extract Data**:
+   - Reads data from `employee_details.csv` using the `read_csv()` function in `etl/extract.py`.
+
+2. **Transform Data**:
+   - The data is transformed using the `transform_data()` function in `etl/transform.py`, which includes the following steps:
+     - Date format conversion (`BirthDate` to `DD/MM/YYYY`).
+     - Removing whitespace from `FirstName` and `LastName`.
+     - Creating a new `FullName` field.
+     - Calculating `Age` as of January 1, 2023.
+     - Categorizing `Salary` into salary buckets.
+     - Dropping unnecessary columns.
+
+3. **Load Data**:
+   - The transformed data is loaded into a PostgreSQL database using the `load_data()` function in `etl/load.py`.
+
+4. **Testing**:
+   - Automated tests have been written for each part of the ETL process using Python’s `unittest` framework to ensure the correct functionality of the ETL pipeline.
+
